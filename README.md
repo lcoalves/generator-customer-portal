@@ -8,7 +8,7 @@ This generator works in linux, mac and windows.
 
 ```bash
 npm install -g yo
-git clone https://hdndigital@dev.azure.com/hdndigital/Ticket%20-%20Endered/_git/customer-portal-generator
+git clone https://github.com/lcoalves/generator-customer-portal.git
 cd generator-customer-portal && yarn install && yarn link
 ```
 
